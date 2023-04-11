@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "894776604711",
+    "firebase_url": "https://fir-demo-a2e05-default-rtdb.firebaseio.com",
+    "project_id": "fir-demo-a2e05",
+    "storage_bucket": "fir-demo-a2e05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894776604711:android:2c654c29c40ef6ab427602",
+        "android_client_info": {
+          "package_name": "com.example.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894776604711-7vvn81scvma66l95lr9oge0s59vl8ipi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVvU2XDo3nKrhV_1Qm7WEQlLrQb9MryWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894776604711-7vvn81scvma66l95lr9oge0s59vl8ipi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894776604711:android:a5534bdfe4b0b45a427602",
+        "android_client_info": {
+          "package_name": "com.example.myinstagram2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894776604711-7vvn81scvma66l95lr9oge0s59vl8ipi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVvU2XDo3nKrhV_1Qm7WEQlLrQb9MryWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894776604711-7vvn81scvma66l95lr9oge0s59vl8ipi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
